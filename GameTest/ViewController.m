@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Test input");
     NSLog(@"Another test");
+    NSLog(@"Fuck LYS");
 }
 
 - (void)didReceiveMemoryWarning {
